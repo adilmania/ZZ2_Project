@@ -12,3 +12,12 @@
 .icon-block .material-icons {
 	font-size: inherit;
 }
+
+.wrapper {
+  padding-left: 200px;
+}
+
+.side-nav{
+  top: 65px;
+  width: 250px;
+}
